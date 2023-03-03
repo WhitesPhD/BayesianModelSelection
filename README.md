@@ -4,11 +4,11 @@ This is some of the material I cover for my course on Bayesian methods for large
 
 The syllabus contains:
 
-Introduction to Bayesian model selection
-Hierarchical shrinkage priors
-Bayesian variable selection
-Bayesian model averaging
-Bayesian inference for generalised linear models
+- Introduction to Bayesian model selection
+- Hierarchical shrinkage priors
+- Bayesian variable selection
+- Bayesian model averaging
+- Bayesian inference for generalised linear models
 
 The material include slides and some Matlab codes for the tutorials. 
 
