@@ -1,4 +1,4 @@
-Bayesian Model Selection (Course material)
+Bayesian inference for large-scale regression models (Course material)
 
 This is some of the material I cover for my course on Bayesian methods for large-scale regressions at the Queen Mary, University of London. Topics are the following:
 
